@@ -1,0 +1,2 @@
+
+If you want to add new file, echo >> ~~~, and if you want to add something to the existing file, then echo ~~~ >> file
